@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ArrayListNotes
+comment0.text=manipulate\ array\ lists\ using\ various\ methods\n\ array\ lists\ are\ similar\ to\ arrays\n\ Both\ are\ lists\ of\ data\n\ however,\ array\ lists\ have\ flexibility\ with\ size\n\ while\ arrays\ have\ a\ fixed\ length\n\ array\ lists\ only\ store\ objects\n\ arrays\ can\ store\ primitive\ data\ types\ like\ int\ and\ double\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
